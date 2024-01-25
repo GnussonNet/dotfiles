@@ -12,7 +12,7 @@ return {
 			close_if_last_window = true,
 			default_component_configs = {
 				modified = {
-					symbol = "",
+					symbol = "",
 				},
 				git_status = {
 					symbols = {
