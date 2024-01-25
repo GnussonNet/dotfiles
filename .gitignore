@@ -1,0 +1,15 @@
+# Ignore every file, folder and sub folder
+*
+
+# Except for these files
+!.zshrc
+!.gitignore
+!README.md
+
+
+# And nvim folder
+!.config/
+!.config/nvim/
+!.config/nvim/**
+
+.config/**/.DS_Store
